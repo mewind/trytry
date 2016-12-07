@@ -97,4 +97,9 @@
     Private Sub GroupBoxPAY_Enter(sender As Object, e As EventArgs) Handles GroupBoxPAY.Enter
 
     End Sub
+
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        'hello
+        'i'm trying this
+    End Sub
 End Class
