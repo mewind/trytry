@@ -1,0 +1,11 @@
+C:\Users\User-PC\Desktop\Study\Sem3\Visual Programming\inclassprac\prac3\prac3Q1\prac3Q1\bin\Debug\prac3Q1.exe.config
+C:\Users\User-PC\Desktop\Study\Sem3\Visual Programming\inclassprac\prac3\prac3Q1\prac3Q1\obj\Debug\prac3Q1.vbprojResolveAssemblyReference.cache
+C:\Users\User-PC\Desktop\Study\Sem3\Visual Programming\inclassprac\prac3\prac3Q1\prac3Q1\obj\Debug\prac3Q1.Resources.resources
+C:\Users\User-PC\Desktop\Study\Sem3\Visual Programming\inclassprac\prac3\prac3Q1\prac3Q1\obj\Debug\prac3Q1.vbproj.GenerateResource.Cache
+C:\Users\User-PC\Desktop\Study\Sem3\Visual Programming\inclassprac\prac3\prac3Q1\prac3Q1\obj\Debug\prac3Q1.xml
+C:\Users\User-PC\Desktop\Study\Sem3\Visual Programming\inclassprac\prac3\prac3Q1\prac3Q1\obj\Debug\prac3Q1.Form2.resources
+C:\Users\User-PC\Desktop\Study\Sem3\Visual Programming\inclassprac\prac3\prac3Q1\prac3Q1\bin\Debug\prac3Q1.exe
+C:\Users\User-PC\Desktop\Study\Sem3\Visual Programming\inclassprac\prac3\prac3Q1\prac3Q1\bin\Debug\prac3Q1.pdb
+C:\Users\User-PC\Desktop\Study\Sem3\Visual Programming\inclassprac\prac3\prac3Q1\prac3Q1\bin\Debug\prac3Q1.xml
+C:\Users\User-PC\Desktop\Study\Sem3\Visual Programming\inclassprac\prac3\prac3Q1\prac3Q1\obj\Debug\prac3Q1.exe
+C:\Users\User-PC\Desktop\Study\Sem3\Visual Programming\inclassprac\prac3\prac3Q1\prac3Q1\obj\Debug\prac3Q1.pdb

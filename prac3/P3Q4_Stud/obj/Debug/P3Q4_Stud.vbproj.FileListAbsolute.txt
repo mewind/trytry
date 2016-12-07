@@ -1,0 +1,30 @@
+C:\Users\Liaw\AppData\Local\Temporary Projects\P3Q4_Stud\bin\Debug\P3Q4_Stud.exe.config
+C:\Users\Liaw\AppData\Local\Temporary Projects\P3Q4_Stud\bin\Debug\P3Q4_Stud.exe
+C:\Users\Liaw\AppData\Local\Temporary Projects\P3Q4_Stud\bin\Debug\P3Q4_Stud.pdb
+C:\Users\Liaw\AppData\Local\Temporary Projects\P3Q4_Stud\bin\Debug\P3Q4_Stud.xml
+C:\Users\Liaw\AppData\Local\Temporary Projects\P3Q4_Stud\obj\Debug\P3Q4_Stud.Form1.resources
+C:\Users\Liaw\AppData\Local\Temporary Projects\P3Q4_Stud\obj\Debug\P3Q4_Stud.Resources.resources
+C:\Users\Liaw\AppData\Local\Temporary Projects\P3Q4_Stud\obj\Debug\P3Q4_Stud.vbproj.GenerateResource.Cache
+C:\Users\Liaw\AppData\Local\Temporary Projects\P3Q4_Stud\obj\Debug\P3Q4_Stud.exe
+C:\Users\Liaw\AppData\Local\Temporary Projects\P3Q4_Stud\obj\Debug\P3Q4_Stud.xml
+C:\Users\Liaw\AppData\Local\Temporary Projects\P3Q4_Stud\obj\Debug\P3Q4_Stud.pdb
+C:\Users\Liaw\Documents\Visual Studio 2012\Projects\P3Q4_Stud\bin\Debug\P3Q4_Stud.exe.config
+C:\Users\PC\Desktop\TAR UC\Teaching\Sem 2016_Feb_15 (Short)\BAIT1083 Visual Programming\Practical\Practical\Practical 3 + Solution\P3Q4_Stud\bin\Debug\P3Q4_Stud.exe.config
+C:\Users\PC\Desktop\TAR UC\Teaching\Sem 2016_Feb_15 (Short)\BAIT1083 Visual Programming\Practical\Practical\Practical 3 + Solution\P3Q4_Stud\obj\Debug\P3Q4_Stud.FrmDebug.resources
+C:\Users\PC\Desktop\TAR UC\Teaching\Sem 2016_Feb_15 (Short)\BAIT1083 Visual Programming\Practical\Practical\Practical 3 + Solution\P3Q4_Stud\obj\Debug\P3Q4_Stud.Resources.resources
+C:\Users\PC\Desktop\TAR UC\Teaching\Sem 2016_Feb_15 (Short)\BAIT1083 Visual Programming\Practical\Practical\Practical 3 + Solution\P3Q4_Stud\obj\Debug\P3Q4_Stud.vbproj.GenerateResource.Cache
+C:\Users\Use72\Desktop\P3Q4_Stud\bin\Debug\P3Q4_Stud.exe.config
+C:\Users\Use72\Desktop\P3Q4_Stud\bin\Debug\P3Q4_Stud.exe
+C:\Users\Use72\Desktop\P3Q4_Stud\bin\Debug\P3Q4_Stud.pdb
+C:\Users\Use72\Desktop\P3Q4_Stud\bin\Debug\P3Q4_Stud.xml
+C:\Users\Use72\Desktop\P3Q4_Stud\obj\Debug\P3Q4_Stud.vbprojResolveAssemblyReference.cache
+C:\Users\Use72\Desktop\P3Q4_Stud\obj\Debug\P3Q4_Stud.FrmDebug.resources
+C:\Users\Use72\Desktop\P3Q4_Stud\obj\Debug\P3Q4_Stud.Resources.resources
+C:\Users\Use72\Desktop\P3Q4_Stud\obj\Debug\P3Q4_Stud.vbproj.GenerateResource.Cache
+C:\Users\Use72\Desktop\P3Q4_Stud\obj\Debug\P3Q4_Stud.exe
+C:\Users\Use72\Desktop\P3Q4_Stud\obj\Debug\P3Q4_Stud.xml
+C:\Users\Use72\Desktop\P3Q4_Stud\obj\Debug\P3Q4_Stud.pdb
+C:\Users\User-PC\Desktop\Study\Sem3\Visual Programming\inclassprac\prac3\P3Q4_Stud\bin\Debug\P3Q4_Stud.exe.config
+C:\Users\User-PC\Desktop\Study\Sem3\Visual Programming\inclassprac\prac3\P3Q4_Stud\obj\Debug\P3Q4_Stud.exe
+C:\Users\User-PC\Desktop\Study\Sem3\Visual Programming\inclassprac\prac3\P3Q4_Stud\obj\Debug\P3Q4_Stud.xml
+C:\Users\User-PC\Desktop\Study\Sem3\Visual Programming\inclassprac\prac3\P3Q4_Stud\obj\Debug\P3Q4_Stud.pdb
