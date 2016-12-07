@@ -101,5 +101,7 @@
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         'hello
         'i'm trying this
+
+        ''add one more
     End Sub
 End Class
