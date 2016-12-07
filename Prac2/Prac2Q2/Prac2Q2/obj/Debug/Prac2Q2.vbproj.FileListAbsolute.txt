@@ -9,3 +9,7 @@ C:\Users\User-PC\Desktop\Study\Sem3\Visual Programming\inclassprac\Prac2\Prac2Q2
 C:\Users\User-PC\Desktop\Study\Sem3\Visual Programming\inclassprac\Prac2\Prac2Q2\Prac2Q2\obj\Debug\Prac2Q2.xml
 C:\Users\User-PC\Desktop\Study\Sem3\Visual Programming\inclassprac\Prac2\Prac2Q2\Prac2Q2\obj\Debug\Prac2Q2.pdb
 C:\Users\User-PC\Desktop\Study\Sem3\Visual Programming\inclassprac\Prac2\Prac2Q2\Prac2Q2\obj\Debug\Prac2Q2.vbprojResolveAssemblyReference.cache
+C:\Users\User-PC\Desktop\trytry\Prac2\Prac2Q2\Prac2Q2\bin\Debug\Prac2Q2.exe.config
+C:\Users\User-PC\Desktop\trytry\Prac2\Prac2Q2\Prac2Q2\obj\Debug\Prac2Q2.exe
+C:\Users\User-PC\Desktop\trytry\Prac2\Prac2Q2\Prac2Q2\obj\Debug\Prac2Q2.xml
+C:\Users\User-PC\Desktop\trytry\Prac2\Prac2Q2\Prac2Q2\obj\Debug\Prac2Q2.pdb
